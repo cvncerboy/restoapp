@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #6259AC;
+}
+
+.header-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.header-description {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    border: 2px solid #fff;
+    padding: .50em 2em;
+}
+
+.carousel-inner .carousel-item img {
+    margin: 0 auto;
+}
+
+.sty-carousel-caption-title {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sty-carousel-caption-description {
+    color: #bbb;
+}
+
+.sty-carousel-price {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+}
